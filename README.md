@@ -1,1 +1,1 @@
-# Ride NITT TC API
+# RideNITT TC API
